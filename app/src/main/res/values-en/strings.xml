@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appCaracter</string>
+    <string name="ir_otra_actividad">Welcome!</string>
+    <string name="button_name">Click</string>
+    <string name="other_text">presiona el boton para ver informacion del personaje</string>
+    <string name="personaje_name">Name: Cristiano Ronaldo</string>
+    <string name="personaje_descripcion">Cristiano Ronaldo dos Santos Aveiro (Funchal, Madeira; February 5, 1985) is a Portuguese footballer. He plays as a left winger or striker and his current team is Al-Nassr F. C. \Often considered the best and most complete footballer,21 as well as the greatest scorer of all time in official matches,22 in addition to one of the best of all time.</string>
+    <string name="description_juventus">Cristiano Ronaldo played for Juventus from 2018 to 2021.</string>
+    <string name="description_manchester">Cristiano Ronaldo played for Manchester United in two stages: from 2003 to 2009 and from 2021 to 2022.</string>
+    <string name="description_real">Cristiano Ronaldo played for Real Madrid from 2009 to 2018, where he achieved his greatest success.</string>
+    <string name="description_other">Cristiano Ronaldo has played for several other clubs throughout his career.</string>
+    <string name="buttonnext"><![CDATA[<]]></string>
+    <string name="buttonprevius"><![CDATA[>]]></string>
+    <string name="change_language">Change Language</string>
+</resources>
